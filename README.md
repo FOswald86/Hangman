@@ -12,5 +12,6 @@ you can fail 12 times before you are completly hanging.
 #End:  
 after closing the win/lose popup generate new name to restart.
 
+<img src="https://github.com/FOswald86/Hangman/blob/main/Hangman.gif" width="800" height="500" />
 
 
